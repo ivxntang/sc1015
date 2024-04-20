@@ -20,8 +20,9 @@ email spam detection
 
 
 
-
-
+## Machine Learning
+To convert text data to vectors for classification, we used Count vectorization and TF-IDF vectorization on input data. Then, we trained the classification models on the train set and used the model on the test set to check for accuracy. Afterwards, we tried to combine multiple classification models in order to increase accuracy and robustness and create a versatile and reliable mode.
+### Models we used: Naive Bayes, Logistic Regression, Support Vector Machine, Random Forest, Neural Networks and Voting Classifier
 
 
 
