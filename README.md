@@ -14,13 +14,23 @@ Due to the widespread increase in the utilisation of online content, our team de
 
 
 ## Dataset used 
-### The dataset used for this project can be retrived here
-### For the cleaned dataset, please download it from here
+### The dataset used for this project can be retrived [Here] (https://www.kaggle.com/datasets/mfaisalqureshi/spam-email)
+
 
 ## Presentation
-### the video presentation can be found here
+### the video presentation can be found [Here]
 
 
+## Brief process walkthrough
+
+1. Data Preperation and Cleaning
+   removal of irrelevant/empty column
+2. Exploratory Data Analysis
+   word cloud analysis
+   email length analysis
+   TF-IDF analysis
+   
+   
 
 
 
