@@ -14,7 +14,7 @@ Due to the widespread increase in the utilisation of online content, our team de
 
 
 ## Dataset used 
-### The dataset used for this project can be retrived [Here] (https://www.kaggle.com/datasets/mfaisalqureshi/spam-email)
+### The dataset used for this project can be retrived [Here](https://www.kaggle.com/datasets/mfaisalqureshi/spam-email)
 
 
 ## Presentation
@@ -24,11 +24,11 @@ Due to the widespread increase in the utilisation of online content, our team de
 ## Brief process walkthrough
 
 1. Data Preperation and Cleaning
-   removal of irrelevant/empty column
+   + removal of irrelevant/empty column
 2. Exploratory Data Analysis
-   word cloud analysis
-   email length analysis
-   TF-IDF analysis
+   + word cloud analysis
+   + email length analysis
+   + TF-IDF analysis
    
    
 
