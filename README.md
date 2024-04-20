@@ -1,5 +1,24 @@
 # sc1015
-email spam detection
+email spam detection accuracy
+
+## About
+
+This is the mini project for sc1015 (introduction to data science and artificial intelligence)
+Due to the widespread increase in the utilisation of online content, our team decided to focus on analysing spam email detection
+
+## Problem definition
+- are we able to spot fake emails analysing individual words alone?
+- what are the textual similarities and differences between spam and ham emails?
+- are we able to detect spam emails and classify it for users using machine learning models? If so, what are the telltale indicators?
+
+
+
+## Dataset used 
+### The dataset used for this project can be retrived here
+### For the cleaned dataset, please download it from here
+
+## Presentation
+### the video presentation can be found here
 
 
 
