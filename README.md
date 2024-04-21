@@ -18,7 +18,7 @@ Due to the widespread increase in the utilisation of online content, our team de
 
 
 ## Presentation
-### the video presentation can be found [Here]
+### the video presentation slides can be found in "sc1015 slides.pdf"
 
 
 ## Brief process walkthrough
