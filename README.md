@@ -29,12 +29,12 @@ Due to the widespread increase in the utilisation of online content, our team de
    + word cloud analysis
    + email length analysis
    + TF-IDF analysis
+3. Machine Learning
+4. Data-Driven Insights and Recommendations
+   + Key details
+   + Count Vectorization outperforms TF-IDF
+   + Implementing a Combination of Classifiers with Soft Voting    
    
-   
-
-
-
-
 
 
 
@@ -42,6 +42,11 @@ Due to the widespread increase in the utilisation of online content, our team de
 ## Machine Learning
 To convert text data to vectors for classification, we used Count vectorization and TF-IDF vectorization on text input data. Then, we trained the classification models on the train set and used the model on the test set to check for accuracy. Afterwards, we tried to combine multiple classification models in order to increase accuracy and robustness and create a versatile and reliable model.
 ### Models we used: Naive Bayes, Logistic Regression, Support Vector Machine, Random Forest, Neural Networks and Voting Classifier
+
+## Data-Driven Insights and Recommendations
+We compared the test classification accuracy of each classification model and found some key details: SVM showed the highest Accuracy for both count vectorization and TF-IDF,  Naive Bayes Classifier and Logistic Regression performed poorly with TF-IDF in email spam classification. We also found that Count Vectorization in general performed better compared to TF-IDF, possibly due to a smaller data sample. 
+
+We recommend using the combination of all classifiers specified (excluding Naive Bayes and Logistic Regression with TF-IDF due to poor accuracy) with Soft Voting as it yielded the highest classification accuracy for email spam classification compared to other classifiers. 
 
 ## Contributions
 ### Ivan - Slides, code and script for 1. Problem Formulation, 2. Data Preparation and 3. Exploratory Data Analysis
