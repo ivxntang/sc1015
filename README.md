@@ -55,4 +55,7 @@ We recommend using the combination of all classifiers specified (excluding Naive
 
 ## References
 ### Gupta, S. (2023, July 13). Email spam filtering using naive Bayes classifier. Springboard Blog. https://www.springboard.com/blog/data-science/bayes-spam-filter/
+### Sanjay, M. (2020, Jan 14) Model Performance boosting with Voting-Classifier. https://medium.com/analytics-vidhya/performance-boosting-with-voting-classifier-ea69313a367c
 ### Shrivas, A. K., Dewangan, A. K., & Ghosh, S. M. (2021). Robust Text Classifier for Classification of Spam E-Mail Documents with Feature Selection Technique. Ingénierie Des Systèmes D’information (2001), 26(5), 437–444. https://doi.org/10.18280/isi.260502
+### Kaplan, S. (2024, Feb 22) Machine Learning 101: CountVectorizer vs TFIDFVectorizer. https://enjoymachinelearning.com/blog/countvectorizer-vs-tfidfvectorizer/
+
