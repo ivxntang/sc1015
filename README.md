@@ -51,7 +51,7 @@ We recommend using the combination of all classifiers specified (excluding Naive
 ## Contributions
 ### Ivan - Slides, code and script for 1. Problem Formulation, 2. Data Preparation and 3. Exploratory Data Analysis
 ### Wen Rong - Code, slides, video for 4. Machine Learning, video editor for Ivan’s part and overall video editor
-### Napatr - Slides and video for 5. Data Driven Insights and 6. Evaluation, and recorded video for Ivan’s part
+### Napatr - Slides and video for 5. Data Driven Insights and 6. Recommendation, and recorded video for Ivan’s part
 
 ## References
 ### Gupta, S. (2023, July 13). Email spam filtering using naive Bayes classifier. Springboard Blog. https://www.springboard.com/blog/data-science/bayes-spam-filter/
