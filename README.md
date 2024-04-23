@@ -1,5 +1,5 @@
 # sc1015
-email spam detection accuracy
+Improving email spam detection accuracy
 
 ## About
 
