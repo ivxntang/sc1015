@@ -10,6 +10,7 @@ Due to the widespread increase in the utilisation of online content, our team de
 - are we able to spot fake emails analysing individual words alone?
 - what are the textual similarities and differences between spam and ham emails?
 - are we able to detect spam emails and classify it for users using machine learning models? If so, what are the telltale indicators?
+- how can we leverage on machine learning and data analysis to increase accurate spam or ham email classification?
 
 
 
